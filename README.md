@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<iframe src="https://giphy.com/embed/WQ3REUQR418t6sdCX8" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aminalstickers-bear-aminals-sticker-book-ios-gifs-WQ3REUQR418t6sdCX8">via GIPHY</a></p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soyoung-lee-112&layout=compact)
 
